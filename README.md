@@ -1,4 +1,4 @@
-# classification-diabetes_data
+# classification-diabete_data
 Diabetes as one of the harmful diseases is important to be predicted and cure. And it is happened because of increasing sugar or glucose in the blood. 
 There is a survey that shows 382 million people in the world are suffering from diabetes. The rise in machine learning methods makes process data easier than before.
 Nowadays, most of the studies are working to build a model that can predict diabetes in early stages with high accuracy. 
